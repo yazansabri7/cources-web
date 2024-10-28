@@ -637,7 +637,7 @@ header .auth{
     padding: 60px;
 }
 .plan{
-    padding: 50px;
+    padding: 50px 10px;
     background-color: #f3f3f3;
     border-radius: 5px;
     width: calc((100% - 50px ) / 2);
@@ -734,7 +734,7 @@ header .auth{
         padding: 0;
     }
     .pricing .container{
-        width: calc(100% - 50px);
+        width: calc(100% - 20px);
         margin: auto;
     }
 }
